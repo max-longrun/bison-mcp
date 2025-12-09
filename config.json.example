@@ -1,0 +1,19 @@
+{
+  "clients": {
+    "Production": {
+      "mcp_key": "your-production-api-key-here",
+      "mcp_url": "https://send.longrun.agency/api"
+    },
+    "Staging": {
+      "mcp_key": "your-staging-api-key-here",
+      "mcp_url": ""
+    },
+    "Account3": {
+      "mcp_key": "your-api-key-here",
+      "mcp_url": "https://send.longrun.agency/api"
+    }
+  },
+  "default_client": "Production"
+}
+
+
